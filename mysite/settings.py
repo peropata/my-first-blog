@@ -25,8 +25,7 @@ SECRET_KEY = '1vr10o_m_cfh!y9hkza)f0n3tpy0&@)3r7t2s9e+##il7_v%xg'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'pero.pythonanywhere.com']
-
+ALLOWED_HOSTS = ['127.0.0.1', 'peropata.pythonanywhere.com']
 
 # Application definition
 
